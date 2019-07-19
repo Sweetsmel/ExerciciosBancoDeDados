@@ -1,0 +1,2 @@
+# ExerciciosBancoDeDados
+AtividadesSolicitadas
