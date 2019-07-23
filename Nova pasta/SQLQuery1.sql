@@ -1,3 +1,0 @@
-﻿ALTER TABLE PRESENCA
-ADD CONSTRAINT UC_Presenca_Insert
-UNIQUE (Diario)
